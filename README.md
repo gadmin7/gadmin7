@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Gauri 👋
+A Graduate Student Pursuing a Master's in Data Analytics from NIT Trichy, India.
+- :telescope: I have 2 years of experience as a Data scientist, where I worked on Demographics Prediction, Churn Prediction, Recommendations and Feed Creation for Media Company.
 
+- :zap: In my free time, I kaggle and explore about Artificial Intelligence.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gauri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-toshniwal-52579b188/)
+
+---
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/gauri-toshniwal-52579b188/">
@@ -16,17 +23,7 @@
 </div>
 
 ---
-
-### :woman_technologist: About Me :
-I am a Graduate Student Pursuing a Master's in Data Analytics from NIT Trichy, India.
-- :telescope: I have 2 years of experience as a Data scientist, where I worked on Demographics Prediction, Churn Prediction, Recommendations and Feed Creation for Media Company.
-
-- :zap: In my free time, I kaggle and explore about Artificial Intelligence.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gauri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-toshniwal-52579b188/)
-
----
-
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <!-- Python -->
