@@ -23,7 +23,8 @@ A Graduate Student Pursuing a Master's in Data Analytics from NIT Trichy, India.
 </div>
 
 ---
-  
+### 🖋️My Blog Posts ###
+A Data-Centric Way to API Functionality Testing - https://medium.com/@gaurigst1970/a-data-centric-way-to-api-functionality-testing-f50c7d804110
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <!-- Python -->
